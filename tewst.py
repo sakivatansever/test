@@ -1,0 +1,3 @@
+isim="ahmet"
+
+print(isim)
